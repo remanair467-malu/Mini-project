@@ -49,9 +49,5 @@ The dashboard includes:
 - Total Wheat Distributed: 72.85M
 - Balance Rice: 26.79M
 - Balance Wheat: 24.96M
-
-## Dashboard Preview
-(Add screenshot of Power BI dashboard here)
-
 ## Conclusion
 The analysis helps understand food grain distribution patterns and leftover stock across states and districts.
